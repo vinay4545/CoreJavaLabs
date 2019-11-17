@@ -8,7 +8,7 @@ System.out.println(dir2);
 }
 
 
-D:\CoreJavaLabs\java_programs>java Lab43
-d:
-ew      esatch
-d:\new\test\batch
+// D:\CoreJavaLabs\java_programs>java Lab43
+// d:
+// ew      esatch
+// d:\new\test\batch
